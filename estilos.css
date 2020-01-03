@@ -1,0 +1,42 @@
+.bt{
+    padding: 8px 20px; 
+    background: rgb(255, 236, 65);
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.bt:active{
+    padding: 8px 20px; 
+    background: rgb(247, 228, 58);
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+#resultado{
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 20px;
+}
+
+td{
+    border: solid 1px #000;
+    padding: 5px;
+    width: 30%;
+    text-align: center;
+}
+
+.principalTR{
+    background: rgba(255, 0, 0, 0.897);
+    color: white;
+    font-weight: 600;
+}
