@@ -1,3 +1,7 @@
+*{
+    font-family: sans-serif;
+}
+
 .bt{
     padding: 8px 20px; 
     background: rgb(255, 236, 65);
